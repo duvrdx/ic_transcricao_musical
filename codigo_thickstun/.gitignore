@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 convnet_experimental2_raw/
-spectograms_log/
-spectograms_wnd/
+spectrograms_log/
+spectrograms_wnd/
 data/
+mlp/
 .env/
